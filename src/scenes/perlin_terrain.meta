@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "frequency",
+      "targetTime": 1.0172054794520544
+    },
+    {
+      "name": "amplitude",
+      "targetTime": 4.517205479452055
+    },
+    {
+      "name": "grass",
+      "targetTime": 7.017205479452055
+    },
+    {
+      "name": "stone",
+      "targetTime": 12.154152589900583
+    },
+    {
+      "name": "water",
+      "targetTime": 17.579183180736905
+    },
+    {
+      "name": "sand",
+      "targetTime": 19.505751890229934
+    },
+    {
+      "name": "next",
+      "targetTime": 28.75263199034955
+    }
+  ],
+  "seed": 2853299264
+}

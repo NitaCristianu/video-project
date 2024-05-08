@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 5.778033843674462
+    },
+    {
+      "name": "draw",
+      "targetTime": 7.891840729111676
+    },
+    {
+      "name": "computer",
+      "targetTime": 12.455528502073433
+    },
+    {
+      "name": "algorithm",
+      "targetTime": 19.62948283997293
+    },
+    {
+      "name": "tree placement",
+      "targetTime": 25.29118846698807
+    },
+    {
+      "name": "concepts",
+      "targetTime": 35.314272594576344
+    },
+    {
+      "name": "next",
+      "targetTime": 45.815175328680816
+    }
+  ],
+  "seed": 3315967555
+}

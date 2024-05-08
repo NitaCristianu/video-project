@@ -1,0 +1,18 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "smoothness",
+      "targetTime": 0.9135415251842026
+    },
+    {
+      "name": "randomness",
+      "targetTime": 2.854557983456652
+    },
+    {
+      "name": "next",
+      "targetTime": 4.999988322165825
+    }
+  ],
+  "seed": 953891722
+}

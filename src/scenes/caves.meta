@@ -1,0 +1,38 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0.06850393700787402
+    },
+    {
+      "name": "map",
+      "targetTime": 1.568503937007874
+    },
+    {
+      "name": "first map",
+      "targetTime": 2.938421931745005
+    },
+    {
+      "name": "apply",
+      "targetTime": 8.268210225642887
+    },
+    {
+      "name": "stoneapply",
+      "targetTime": 9.268210225642887
+    },
+    {
+      "name": "lowerdensity",
+      "targetTime": 11.768210225642887
+    },
+    {
+      "name": "lastlayer",
+      "targetTime": 14.268210225642887
+    },
+    {
+      "name": "next",
+      "targetTime": 34.64878307744861
+    }
+  ],
+  "seed": 1131603609
+}

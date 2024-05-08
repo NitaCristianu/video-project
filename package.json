@@ -1,0 +1,28 @@
+{
+  "name": "anim",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@lezer/javascript": "^1.4.15",
+    "@lezer/python": "^1.1.13",
+    "@motion-canvas/2d": "^3.15.2",
+    "@motion-canvas/core": "^3.15.2",
+    "@motion-canvas/ffmpeg": "^1.1.0",
+    "d3": "^7.9.0",
+    "gpu": "^1.0.0",
+    "three": "^0.163.0"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "^3.15.2",
+    "@motion-canvas/vite-plugin": "^3.15.1",
+    "@types/d3": "^7.4.3",
+    "@types/three": "^0.163.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.0.0"
+  }
+}

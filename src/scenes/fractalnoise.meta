@@ -1,0 +1,58 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "toggle map",
+      "targetTime": 1.7922207574338525
+    },
+    {
+      "name": "skew moment",
+      "targetTime": 3.4500160461380256
+    },
+    {
+      "name": "another",
+      "targetTime": 5.459909449257244
+    },
+    {
+      "name": "down",
+      "targetTime": 6.750935868779078
+    },
+    {
+      "name": "influence",
+      "targetTime": 7.750935868779078
+    },
+    {
+      "name": "others",
+      "targetTime": 9.408596840338916
+    },
+    {
+      "name": "merge",
+      "targetTime": 15.971096840338914
+    },
+    {
+      "name": "code",
+      "targetTime": 19.320431239291253
+    },
+    {
+      "name": "props",
+      "targetTime": 24.857624862438456
+    },
+    {
+      "name": "lacunarity",
+      "targetTime": 26.49980489966526
+    },
+    {
+      "name": "persistence",
+      "targetTime": 40.28347668884332
+    },
+    {
+      "name": "next",
+      "targetTime": 48.21814437516151
+    }
+  ],
+  "seed": 3525016879
+}

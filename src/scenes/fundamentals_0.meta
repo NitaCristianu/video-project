@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 0
+    },
+    {
+      "name": "stone",
+      "targetTime": 0.3446210513891348
+    },
+    {
+      "name": "log",
+      "targetTime": 1.1709560878066012
+    },
+    {
+      "name": "sand",
+      "targetTime": 2.0957542817638206
+    },
+    {
+      "name": "halfen",
+      "targetTime": 3.189813202758293
+    },
+    {
+      "name": "next",
+      "targetTime": 4.178000236842859
+    }
+  ],
+  "seed": 3396740259
+}

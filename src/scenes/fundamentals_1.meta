@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1.2902177224557045
+    },
+    {
+      "name": "2d map",
+      "targetTime": 3.6177061189788127
+    },
+    {
+      "name": "frequency",
+      "targetTime": 4.617706118978813
+    },
+    {
+      "name": "amplitude",
+      "targetTime": 5.617706118978813
+    },
+    {
+      "name": "z axis",
+      "targetTime": 8.004838593442056
+    },
+    {
+      "name": "random",
+      "targetTime": 10.510454658782875
+    },
+    {
+      "name": "next",
+      "targetTime": 12.62607289276135
+    }
+  ],
+  "seed": 2381398354
+}
